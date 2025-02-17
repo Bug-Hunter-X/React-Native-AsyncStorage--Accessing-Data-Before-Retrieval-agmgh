@@ -1,0 +1,1 @@
+This repository demonstrates a common error in React Native applications involving the asynchronous nature of AsyncStorage.getItem.  The bug.js file showcases the problematic code where data is accessed before it's fully retrieved from AsyncStorage. The bugSolution.js file provides the corrected implementation with proper error handling and asynchronous operation.
